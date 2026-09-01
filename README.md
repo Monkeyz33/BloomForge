@@ -1,8 +1,10 @@
+<img width="100%" height="110" alt="yhha6Zo" src="https://github.com/user-attachments/assets/c6b2dbcb-3818-43ea-993b-b276bc141f5c" />
+
 # <p align="center"> ⚙️ BloomForge 🌸
 
 > <p align="center"> *Là où les engrenages tournent, où les sorts s’enflamment et où les légendes se forgent.*
-
 <img width="100%" height="110" alt="yhha6Zo" src="https://github.com/user-attachments/assets/c6b2dbcb-3818-43ea-993b-b276bc141f5c" />
+
 
 
 ## 🌍 Un monde qui vaut la peine d’être conquis
@@ -51,7 +53,6 @@ La magie est profondément ancrée dans Bloomforge.
 - 🌀 Plusieurs écoles de magie à maîtriser, des arts élémentaires aux magies sombres.
 - ✨ Faites travaillez vos animaux ! Grâce à **Ars Nouveau** et **Ars Creo** organisez vos coffres en un coup de baguette magique.
 
-
 ---
 
 ## 💬 Un mot du créateur
@@ -61,5 +62,7 @@ Les mises à jour sont peut-être peu fréquentes, mais l’expérience est comp
 
 Un immense merci à tous les créateurs de mods qui ont rendu cela possible.
 Vous êtes la véritable magie derrière ce pack. 🌸
-> <p align="center"><img width="512" height="16" alt="ZhLLWHT" src="https://github.com/user-attachments/assets/679312a8-15c6-40bb-ad21-425ab2d0d567" />
+> <p align="center"><img width="100%" height="41" alt="night sky" src="https://github.com/user-attachments/assets/cc4c4c7a-991c-44db-beb7-f703f8c046f7" />
+
+
 
