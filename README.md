@@ -29,7 +29,7 @@ Le monde est vaste, dangereux et regorge de secrets.
 
 Des modestes chaumières aux grandes cités, vous disposez de tous les outils nécessaires.
 
-- 🪵 Des dizaines de mods de construction, dont **Chipped**, **Handcrafted** et bien d’autres encore.
+- 🪵 Des dizaines de mods de construction, dont **Chipped**, **Handcrafted**, **Yuushya Townscape** et bien d’autres encore.
 - 🏘️ Devenez le maire de votre propre colonie avec **MineColonies**
 - 🌿 Décorez votre monde avec des blocs et des meubles inspirés de la nature.
 
