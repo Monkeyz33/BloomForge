@@ -1,67 +1,63 @@
-# ⚙️ Bloomforge 🌸
+# ⚙️ BloomForge 🌸
 
-> *Where gears turn, spells ignite, and legends are forged.*
-
----
-
-## 🌍 A World Worth Conquering
-
-Bloomforge is a modpack built around three pillars : **exploration**,
-**creation**, and **magic**. Whether you want to build a cozy farm,
-engineer a factory, or become the most powerful wizard in the land —
-Bloomforge has a place for you.
+> *Là où les engrenages tournent, où les sorts s’enflamment et où les légendes se forgent.*
 
 ---
 
-## ⚔️ Explore & Conquer
+## 🌍 Un monde qui vaut la peine d’être conquis
 
-The world is vast, dangerous, and full of secrets.
+BloomForge est un modpack articulé autour de trois piliers : **l’exploration**,
+**la création** et **la magie**. Que vous souhaitiez construire une ferme cozy,
+concevoir une usine ou devenir le sorcier le plus puissant du royaume,
+BloomForge à une place pour vous.
+---
 
-- 🐉 Discover a beautiful world-generation with **Oh The Biomes We've Gone**, **Biomes O' Plenty** and **Techtonic**
-- 🌲 Explore the **Twilight Forest**, **The Bumblezone**, **Eternal Starlight** and many more dimensions
-- 🏰 Discover hundreds of unique structures scattered across every biome
+## ⚔️ Explorez et partez à la conquête
+
+Le monde est vaste, dangereux et regorge de secrets.
+
+- 🐉 Découvrez une magnifique génération de mondes avec **Oh The Biomes We've Gone**, **Biomes O' Plenty** et **Techtonic**.
+- 🌲 Explorez **The Twilight Forest**, **The Bumblezone**, **Eternal Starlight** et bien d’autres dimensions encore.
+- 🏰 Découvrez des centaines de structures uniques disséminées dans chaque biome.
 
 ---
 
-## 🏗️ Build Your Empire
+## 🏗️ Bâtissez votre empire
 
-From humble cottages to grand cities, the tools are yours.
+Des modestes chaumières aux grandes cités, vous disposez de tous les outils nécessaires.
 
-- 🪵 Dozens of building mods including **Chipped**, **Handcrafted** and more
-- 🏘️ Become the mayor of your own colony with **MineColonies**
-- 🌿 Decorate your world with nature-inspired blocks and furniture
-
----
-
-## ⚙️ Engineer Everything
-
-Create isn't just a mod here — it's a way of life.
-
-- 🔧 Build complex machines with **Create** and its many add-ons
-- ⚡ Automate your farm, your factory, even your magic
-- 🚂 Connect your world with railways, contraptions and more
+- 🪵 Des dizaines de mods de construction, dont **Chipped**, **Handcrafted** et bien d’autres encore.
+- 🏘️ Devenez le maire de votre propre colonie avec **MineColonies**
+- 🌿 Décorez votre monde avec des blocs et des meubles inspirés de la nature.
 
 ---
 
-## 🔮 Master the Arcane
+## ⚙️ La seule limite est votre imagination
 
-Magic runs deep in Bloomforge.
+« Create » n’est pas seulement un mod ici — c’est un mode de vie.
 
-- 📖 Learn dozens of spells with **Iron's Spells & Spellbooks** and all its add-ons
-- 🌀 Multiple magic schools to master, from elemental to dark arts
-- ✨ Even your machines can be enchanted
-
----
-
-## 💬 A Note from the Creator
-
-Bloomforge was originally created to play with a small group of friends.
-Updates may be infrequent, but the experience is complete and ready to enjoy.
-
-A huge thank you to every single mod creator who made this possible.
-You are the real magic behind this pack. 🌸
+- 🔧 Construisez des machines complexes avec **Create** et ses nombreuses extensions.
+- ⚡ Automatisez votre ferme, votre usine, voire votre magie.
+- 🚂 Reliez votre monde grâce à des voies ferrées, des engins et bien plus encore.
 
 ---
 
-*NeoForge • Minecraft 1.21.1*
+## 🔮 Maîtrisez les arts occultes
+
+La magie est profondément ancrée dans Bloomforge.
+
+- 📖 Apprenez des dizaines de sorts grâce à **Iron's Spells & Spellbooks** et à toutes ses extensions.
+- 🌀 Plusieurs écoles de magie à maîtriser, des arts élémentaires aux magies sombres.
+- ✨ Faites travaillez vos animaux ! Grâce à **Ars Nouveau** et **Ars Creo** organisez vos coffres en un coup de baguette magique.
+
+
+---
+
+## 💬 Un mot du créateur
+
+À l’origine, Bloomforge a été créé pour jouer avec un petit groupe d’amis.
+Les mises à jour sont peut-être peu fréquentes, mais l’expérience est complète et prête à être appréciée.
+
+Un immense merci à tous les créateurs de mods qui ont rendu cela possible.
+Vous êtes la véritable magie derrière ce pack. 🌸
 
