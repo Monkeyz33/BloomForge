@@ -1,8 +1,9 @@
-# ⚙️ BloomForge 🌸
+# <p align="center"> ⚙️ BloomForge 🌸
 
-> *Là où les engrenages tournent, où les sorts s’enflamment et où les légendes se forgent.*
+> <p align="center"> *Là où les engrenages tournent, où les sorts s’enflamment et où les légendes se forgent.*
 
----
+<img width="100%" height="110" alt="yhha6Zo" src="https://github.com/user-attachments/assets/c6b2dbcb-3818-43ea-993b-b276bc141f5c" />
+
 
 ## 🌍 Un monde qui vaut la peine d’être conquis
 
