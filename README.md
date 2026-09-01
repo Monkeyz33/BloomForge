@@ -61,4 +61,5 @@ Les mises à jour sont peut-être peu fréquentes, mais l’expérience est comp
 
 Un immense merci à tous les créateurs de mods qui ont rendu cela possible.
 Vous êtes la véritable magie derrière ce pack. 🌸
+> <p align="center"><img width="512" height="16" alt="ZhLLWHT" src="https://github.com/user-attachments/assets/679312a8-15c6-40bb-ad21-425ab2d0d567" />
 
