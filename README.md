@@ -1,18 +1,22 @@
-<img width="100%" height="110" alt="yhha6Zo" src="https://github.com/user-attachments/assets/c6b2dbcb-3818-43ea-993b-b276bc141f5c" />
+<img width="100%" height="110" alt="yhha6Zo" src="https://github.com/user-attachments/assets/c6b2dbcb-3818-43ea-993b-b276bc141f5c" />       
+<br/>
+<br/>
+<br/>
+<p align="center"> <img width="75%" height="179" alt="Amirdrasyl" src="https://github.com/user-attachments/assets/2a672803-abac-4f3d-aa9a-c25d86c2ed99" /></p>
 
-# <p align="center"> ⚙️ BloomForge 🌸
+<img width="100%" height="110" alt="yhha6Zo" src="https://github.com/user-attachments/assets/c6b2dbcb-3818-43ea-993b-b276bc141f5c" />                                                                                
 
-> <p align="center"> *Là où les engrenages tournent, où les sorts s’enflamment et où les légendes se forgent.*
-<img width="100%" height="110" alt="yhha6Zo" src="https://github.com/user-attachments/assets/c6b2dbcb-3818-43ea-993b-b276bc141f5c" />
-
-
+<br/>
+<br/>
+<br/>
 
 ## 🌍 Un monde qui vaut la peine d’être conquis
 
-BloomForge est un modpack articulé autour de trois piliers : **l’exploration**,
+
+Amirdrasyl est un modpack articulé autour de trois piliers : **l’exploration**,
 **la création** et **la magie**. Que vous souhaitiez construire une ferme cozy,
 concevoir une usine ou devenir le sorcier le plus puissant du royaume,
-BloomForge à une place pour vous.
+Amirdrasyl à une place pour vous.
 ---
 
 ## ⚔️ Explorez et partez à la conquête
@@ -47,22 +51,26 @@ Des modestes chaumières aux grandes cités, vous disposez de tous les outils n�
 
 ## 🔮 Maîtrisez les arts occultes
 
-La magie est profondément ancrée dans Bloomforge.
+La magie est profondément ancrée dans Amirdrasyl.
 
 - 📖 Apprenez des dizaines de sorts grâce à **Iron's Spells & Spellbooks** et à toutes ses extensions.
 - 🌀 Plusieurs écoles de magie à maîtriser, des arts élémentaires aux magies sombres.
 - ✨ Faites travaillez vos animaux ! Grâce à **Ars Nouveau** et **Ars Creo** organisez vos coffres en un coup de baguette magique.
 
----
+<br/>
+
+ <p align="center"><img width="100%" height="41" alt="night sky" src="https://github.com/user-attachments/assets/cc4c4c7a-991c-44db-beb7-f703f8c046f7" /></p>
+
+<br/>
 
 ## 💬 Un mot du créateur
 
-À l’origine, Bloomforge a été créé pour jouer avec un petit groupe d’amis.
+À l’origine, Amirdrasyl a été créé pour jouer avec un petit groupe d’amis.
 Les mises à jour sont peut-être peu fréquentes, mais l’expérience est complète et prête à être appréciée.
 
 Un immense merci à tous les créateurs de mods qui ont rendu cela possible.
 Vous êtes la véritable magie derrière ce pack. 🌸
-> <p align="center"><img width="100%" height="41" alt="night sky" src="https://github.com/user-attachments/assets/cc4c4c7a-991c-44db-beb7-f703f8c046f7" />
+
 
 
 
