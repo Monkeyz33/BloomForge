@@ -2,7 +2,10 @@
 <br/>
 <br/>
 <br/>
-<p align="center"> <img width="75%" height="179" alt="Amirdrasyl" src="https://github.com/user-attachments/assets/2a672803-abac-4f3d-aa9a-c25d86c2ed99" /></p>
+<p align="center"><img width="75%" height="170" alt="Amirdrasyl" src="https://github.com/user-attachments/assets/cd4effdc-b8ec-4533-b1ed-805a9e664bea" /></p>
+
+
+
 
 <img width="100%" height="110" alt="yhha6Zo" src="https://github.com/user-attachments/assets/c6b2dbcb-3818-43ea-993b-b276bc141f5c" />                                                                                
 
